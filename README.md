@@ -27,7 +27,6 @@ Supported platforms (frontends):
   - Circuitmess Ringo
 
 # TODO LIST:
-
-[:negative_squared_cross_mark:] Fix Highscores
-[ ] Toggle on/off Sound
-[ ] Speed up block
+  [:negative_squared_cross_mark:] Fix Highscores
+  [ ] Toggle on/off Sound
+  [ ] Speed up block
