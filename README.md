@@ -25,3 +25,9 @@ Supported platforms (frontends):
   - ESPBoy
   - Circuitmess Nibble
   - Circuitmess Ringo
+
+# TODO LIST:
+
+[:negative_squared_cross_mark:] Fix Highscores
+[ ] Toggle on/off Sound
+[ ] Speed up block
